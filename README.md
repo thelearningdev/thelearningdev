@@ -1,2 +1,3 @@
-# thelearningdev
-A public repo of everything thelearningdev
+# TheLearningDev
+
+A Fun Space to Colearn and keep the enthusiasm alive
